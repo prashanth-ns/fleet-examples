@@ -1,7 +1,7 @@
 # This file and all contents in it are OPTIONAL.
 
 # The namespace this chart will be installed to,
-# if not specified the chart will be installed to "default"
+# if not specified the chart will be installed to "default".
 namespace: fleet-multi-chart-helm-example
 
 # Custom helm options
